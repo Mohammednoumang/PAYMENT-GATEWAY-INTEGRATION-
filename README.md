@@ -17,17 +17,10 @@ Backend :
 
 1. Razorpay 
 
-Website :
-
-https://donatepayment-gateway-integration.000webhostapp.com/
 
 Youtube :
 https://youtu.be/RTxlJa2rFyo
 
-![image](/assets/img/Home.png)
-![image](/assets/img/Donate.png)
-![image](/assets/img/paid.png)
-![image](/assets/img/mail.png)
 
 
 
