@@ -1,9 +1,11 @@
 # Payment Gateway Integration
-#Payment_Gateway_Integration #TheSparkFoundation
+#Payment_Gateway_Integration #Task3 #TheSparkFoundation
 
-This is Task " Payment Gateway Integration " of The Spark Foundation under their #GRIPSEPT22 Program
+This is Task3 " Payment Gateway Integration " of The Spark Foundation under their #GRIPSEPT22 Program created by Mohammed Nouman Ghori
 
 Payment Gateway Integration for Donating specific amount of Money directly to the Needed One.or payment gateway integration, Razorpay is used.
+
+Website : https://pages.razorpay.com/pl_KEhqiQcVJKkyPY/view
 
 #Languages Used
 
